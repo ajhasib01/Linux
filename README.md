@@ -1,24 +1,24 @@
 # Use git in LINUX
 
-# STEPS: 
+**STEPS:** 
 
-1) First create a folder where u want to use git
+- First create a folder where u want to use git
 
-2) Then initialize git by (git init)
+- Then initialize git by `git init`
 
-4) Then make something eg. file and write anything then add it by (git add {file name} or git add {.}> 
-    . for everything.
-3) If u want to chck status then write (git status) 
+- If u want to chck status then write `git status`
 
-5)If u want to commit something then use git commit 
+- Then make something eg. file and write anything then add it by `(git add {file name} or git add {.}`
+        {.} for everything.
 
-first u need to make a repo in github and copy the url
+- If u want to commit something then use `git commit` If you using it for the first time  u need to make a repository in github and copy the url.
 
-6) To remotely access git remote add url
 
-7)Then for pushing the file to github (git push -u origin master )
-then give username and for password u need token 
-for token go to developer section on github and give usable permission and generate the key .
+- To remotely access `git remote add url`
+
+- Then for pushing the file to github `git push -u origin master` [It's not always master branch u can create your own branch and push to it just writing that branch name instead of master.]
+then give username and for password you  need a token 
+for token go to `developer section` on github and look for `personal access token` and from that section choose `fine-grained tokens` give usable permission and generate the key .
 
 
 
