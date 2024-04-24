@@ -8,7 +8,7 @@
 
 - If u want to chck status then write `git status`
 
-- Then make something eg. file and write anything then add it by `(git add {file name} or git add {.}`
+- Then make something eg. file and write anything then add it by `git add {file name} or git add {.}`
         {.} for everything.
 
 - If u want to commit something then use `git commit` If you using it for the first time  u need to make a repository in github and copy the url.
